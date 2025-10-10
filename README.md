@@ -146,7 +146,7 @@ npm run build
 
 **Sameer Ansari**
 - GitHub: [@SameerAnsari0786](https://github.com/SameerAnsari0786)
-- LinkedIn: [Connect with me](https://linkedin.com/in/sameer-ansari)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/sameeransari2005)
 
 ## 🌟 Show your support
 

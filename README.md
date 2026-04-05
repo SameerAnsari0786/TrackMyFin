@@ -34,7 +34,6 @@ TrackMyFin/
 ### Prerequisites
 
 - Java 11 or higher
-- Node.js 16 or higher
 - Maven 3.6 or higher
 
 ### 🔧 Backend Setup
